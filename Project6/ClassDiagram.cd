@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAdministrator" Collapsed="true">
+    <Position X="21" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBggAAhAJBAAIEAQABIAIAAQQIJAgAEAAAAQAAECIAA=</HashCode>
+      <FileName>CAdministrator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAlerta" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAlerta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAn" Collapsed="true">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>CAn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CApartament" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAgAAIAAAAAAAAAAAAEAAAAAEAAAAAAAAACA=</HashCode>
+      <FileName>CApartament.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCazare" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABICAgAAAAAAAAAEAAAiJAABAAAAAQAAgAAAACgAA=</HashCode>
+      <FileName>CCazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CComplex_Apartamente" Collapsed="true">
+    <Position X="19.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAAAAAAAAAAAAAAAIAAQAQAABABAMAEEAQ=</HashCode>
+      <FileName>CComplex_Apartamente.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CComplex_Vile" Collapsed="true">
+    <Position X="21" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAABAAAABAAAAAAAAAAAAAIAAQAQAABABAMAAAAA=</HashCode>
+      <FileName>CComplex_Vile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreate_orase" Collapsed="true">
+    <Position X="19.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAAAAAAAAAAAAQBBAEAAAAAAgAAAAAAA=</HashCode>
+      <FileName>CCreate_orase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreate_time" Collapsed="true">
+    <Position X="16.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQCAAAAAAAAAAAAAAAAAAQEBAAAEAgAEgAAAAAAE=</HashCode>
+      <FileName>CCreate_time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreate_unitati_cazare" Collapsed="true">
+    <Position X="18.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQCAAAAAABAQAAAAAAQAABAQABgAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>CCreate_unitati_cazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CData" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAQCAAgIACwAAIAAMAAQAAAAAAABAABAAgAAAAEAA=</HashCode>
+      <FileName>CData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEroare" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEroare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFactory_unitate_cazare" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFactory_unitate_cazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHotel" Collapsed="true">
+    <Position X="17.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAACAAIAAAAAAAAAAAAAAAAAAIBAQAQAABABAMAAAAA=</HashCode>
+      <FileName>CHotel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMenu" Collapsed="true">
+    <Position X="21.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>CMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COras" Collapsed="true">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAgAAAAAAACCAAAAAAAAgAAAABAAAEAgAAUA=</HashCode>
+      <FileName>COras.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRezervare" Collapsed="true">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>CRezervare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRoom" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>CRoom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUnitate_Cazare" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIAAAAAAAAAAAAAAMAAgABABAAAgQAQA=</HashCode>
+      <FileName>CUnitate_Cazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUser" Collapsed="true">
+    <Position X="19.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAMAiEAAAAAQCEABACAAAAAAACAQABAAgCiAA=</HashCode>
+      <FileName>CUser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVila" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAQAEAAAAEAAAAAAAAABAAAABGA=</HashCode>
+      <FileName>CVila.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICazare" Collapsed="true">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IExceptie" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAABAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>IExceptie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IUnitate_Cazare" Collapsed="true">
+    <Position X="19.25" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="IUnitate_Cazare::type_cazare" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>IUnitate_Cazare.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAAAAAAAAAAAAAAAIAIQAQAABBBAMgAAAA=</HashCode>
+      <FileName>IUnitate_Cazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="type_masa" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAABAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CUnitate_Cazare.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="type_exceptie" Collapsed="true">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAI=</HashCode>
+      <FileName>IExceptie.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="day" Collapsed="true">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAKEAAEAEAAAEAAAAA=</HashCode>
+      <FileName>CData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

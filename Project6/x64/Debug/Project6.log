@@ -1,0 +1,5 @@
+﻿  CMenu.cpp
+C:\Users\Tudor\Desktop\Tema1\Project6\CMenu.cpp(164,10): warning C4101: 'index_mese': unreferenced local variable
+C:\Users\Tudor\Desktop\Tema1\Project6\CMenu.cpp(227,11): warning C4101: 'index_mese': unreferenced local variable
+C:\Users\Tudor\Desktop\Tema1\Project6\CMenu.cpp(298,12): warning C4101: 'index_mese': unreferenced local variable
+  Project6.vcxproj -> C:\Users\Tudor\Desktop\Tema1\x64\Debug\Project6.exe
